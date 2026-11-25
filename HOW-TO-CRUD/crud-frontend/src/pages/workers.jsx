@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import NavBar from '../components/NavBar';      // for Add button + Search input
+import NavBar from '../components/Navbar';      // for Add button + Search input
 import TableList from '../components/TableList'; // table showing workers, delete, edit buttons
 import ModalForm from '../components/ModalForm'; // modal for add/edit worker
 
